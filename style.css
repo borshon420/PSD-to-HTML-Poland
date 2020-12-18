@@ -1,0 +1,208 @@
+body {
+    margin: 0;
+}
+
+.header {
+    background-image: url(img/1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 700px;
+}
+
+.logo {
+    color: #ffffff;
+    margin-top: 30px;
+}
+
+.logo h2 {
+    margin-left: 10px;
+}
+
+.nav-item {
+    margin-top: 30px;
+}
+
+.nav-item ul {
+    margin: 0;
+}
+
+.nav-item ul li {
+    list-style: none;
+    display: inline-block;
+}
+
+.nav-item ul li a {
+    display: block;
+    padding: 10px;
+    color: #ffffff;
+    
+}
+
+.fall {
+    color: #ffffff;
+    text-align: center;
+    margin-top: 200px;
+}
+
+.fall h1 {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.fall h1 span {
+    font-size: 50px;
+    color: #ed6950;
+}
+
+.btn-1 {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.btn-1 a {
+    border-radius: 50px;
+    background-color: #ffc74a;
+    color: black;
+}
+
+.btn-1 p {
+   color: #ffffff;
+   margin-top: 100px;
+}
+
+.content-1-img {
+    margin-top: 100px;
+    text-align: center;
+}
+
+.content-2 {
+    text-align: center;
+}
+
+.where {
+    margin-top: 50px;
+
+}
+
+.src {
+    width: 60%;
+    margin: auto;
+   
+}
+
+.src input {
+    border-radius: 50px;
+    margin-top: 30px;
+    background-color: #fefefe;
+   
+}
+
+.badge-1 {
+    margin-top: 20px;
+}
+
+.badge-1 span {
+    padding: 10px;
+    border-radius: 50px;
+}
+
+.content-3 {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.btn-2 a {
+    border-radius: 50px;
+    background-color: #fefefe;
+    margin-bottom: 20px;
+}
+
+.img-2 {
+    background-color: #f1f3f6;
+}
+
+.img-2 img {
+    margin-top: 20px;
+}
+
+.img-2 h4 {
+    margin-top: 10px;
+}
+
+.img-2 p {
+    margin-top: -10px;
+}
+
+.content-4 {
+    background-color: #f1f3f6;
+    margin-top: 100px;
+    text-align: center;
+}
+
+
+.city h4 {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 50px;
+}
+
+.sando {
+    margin-top: 100px;
+}
+
+.sando h4 {
+    text-align:left;
+    color:#ffc74a;
+
+}
+
+.sando p {
+    text-align: justify;
+}
+
+.card {
+    border: 10px solid #ffc74a;
+    height: 520px;
+    
+}
+
+.btn-3 {
+    text-align: left;
+    margin-top: 50px;
+}
+
+.btn-3 a {
+    border-radius: 50px;
+    
+}
+
+.content-5 {
+    background-image: url(img/14.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+    color: #ffffff;
+    text-align: center;
+
+    
+}
+
+.enjoy {
+    margin-top: 100px;
+}
+
+.btn-4 {
+    margin-top: 30px;
+}
+
+.btn-4 a {
+    border-radius: 50px;
+}
+
+
+
+.footer-text p {
+    margin-top: 30px;
+
+}
+
